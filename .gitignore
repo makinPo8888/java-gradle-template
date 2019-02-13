@@ -1,0 +1,15 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Idea
+.idea/
+
+# Gradle
+.gradle/
+!gradle-wrapper.jar
+
+# Build
+build/
